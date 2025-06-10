@@ -62,7 +62,10 @@ Multi-level classification system with handcrafted statistical features & ML.
 
 - Machine Learning and Data Science - Zero To Mastery Academy
 
-![Banner](./Zero_to_mastery_DSandML.png)
+<p align="center">
+  <img src="./Zero_to_mastery_DSandML.png" alt="Zero to Mastery Certificate" width="400">
+</p>
+
 
 
 ---
