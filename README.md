@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm **Lyna Bouikni**
 
-I'm a passionate **Data Scientist** with a strong focus on **AI for health**, Neuroscience, and real-world applications of machine learning. 
+I'm a passionate **Data Scientist** with a strong focus on real-world applications of machine learning. 
 
 ---
 
