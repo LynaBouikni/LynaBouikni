@@ -1,4 +1,80 @@
-## Hello, I'm Lyna! 👋
+
+# 👋 Hi there, I'm **Lyna Bouikni**
+
+I'm a passionate **Data Scientist** with a strong focus on **AI for health**, Neuroscience, and real-world applications of machine learning. 
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Dual Master's Degrees in AI/Data Science (Dauphine–ENS–Mines Paris) & Computational Modeling (Université Côte d'Azur)
+- 🧠 Experienced in Machine Learning, reinforcement learning, and multi-modal modeling
+- 🌍 International experience in France 🇫🇷, Switzerland 🇨🇭, and the UAE 🇦🇪
+- 💬 Multilingual: French, English, Arabic, Turkish
+- 📊 Skilled in Python, ML, DL
+
+---
+
+## 🚀 Current Focus
+
+🔭 Applying data science to **real-world problems** 
+📚 Building reproducible **ML pipelines** for real-world data
+'text analytics`, `reinforcement learning`, and **neuro-inspired models**
+📝 Contributing to open-source & scientific publications
+
+---
+
+## 🧠 Technical Skills
+
+**Languages & Tools:**
+
+```text
+Python, R, SQL, Java, C | Scikit-learn, TensorFlow, Keras, PyTorch
+Pandas, NumPy, Matplotlib, Seaborn | Git, GitLab, Linux, Jupyter, GCP
+```
+
+**Domains:**
+
+- Machine Learning & Deep Learning
+- Biomedical Data Analysis (EEG, MRI, health records)
+- Reinforcement Learning, Multi-agent systems
+- Data Visualization & Explainability
+
+---
+
+## 📂 Featured Projects
+
+### 🧮 Prédiction du risque cardiaque
+Built a full ML pipeline to predict heart disease risk using the UCI dataset with interpretability modules.
+
+### 🧠 Deep RL for motor adaptation (Campus Biotech)
+Simulated human-like movement adaptation using MuJoCo + reinforcement learning.
+
+### 🧠 Speech decoding with EEG & fMRI (UAEU)
+Transformer-based model achieving 97% accuracy on unimodal EEG decoding.
+
+### 🧮 IRM-based tumor classification
+Multi-level classification system with handcrafted statistical features & ML.
+
+---
+
+## 🧾 Certifications
+
+- Machine Learning and Data Science - Zero To Mastery Academy
+
+
+---
+
+## 🤝 Let’s Connect
+
+📫 Email: [lynabouiknia@gmail.com](mailto:lynabouiknia@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/lyna-b-231a41126)  
+📁 [Portfolio (Coming soon!)]()
+
+---
+
+_Always curious. Always learning. Always building._
+
 
 <!--
 **LynaBouikni/LynaBouikni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
