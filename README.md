@@ -51,7 +51,7 @@ Built a full ML pipeline to predict heart disease risk using the UCI dataset wit
 Simulated human-like movement adaptation using MuJoCo + reinforcement learning.
 
 ### 🧠 Speech decoding with EEG & fMRI (UAEU)
-Transformer-based model achieving 97% accuracy on unimodal EEG decoding.
+Transformer-based model achieving 97% accuracy on unimodal EEG decoding. (Will be shared once published)
 
 ### 🧮 IRM-based tumor classification
 Multi-level classification system with handcrafted statistical features & ML.
@@ -61,6 +61,8 @@ Multi-level classification system with handcrafted statistical features & ML.
 ## 🧾 Certifications
 
 - Machine Learning and Data Science - Zero To Mastery Academy
+
+![Banner](./Zero_to_mastery_DSandML.png)
 
 
 ---
