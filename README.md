@@ -44,7 +44,7 @@ Pandas, NumPy, Matplotlib, Seaborn | Git, GitLab, Linux, Jupyter, GCP
 
 ## 📂 Featured Projects
 
-### 🧮 Prédiction du risque cardiaque
+### 🧮 Heart disease risk prediction
 Built a full ML pipeline to predict heart disease risk using the UCI dataset with interpretability modules.
 
 ### 🧠 Deep RL for motor adaptation (Campus Biotech)
