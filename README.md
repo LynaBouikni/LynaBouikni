@@ -43,8 +43,14 @@ Pandas, NumPy, Matplotlib, Seaborn | Git, GitLab, Linux, Jupyter, GCP
 
 ## 📂 Featured Projects
 
-### 🧮 Heart disease risk prediction
-Built a full ML pipeline to predict heart disease risk using the UCI dataset with interpretability modules.
+### 🫀 Heart Disease Risk Prediction  
+End-to-end ML pipeline using the UCI Heart dataset with:
+- EDA, model tuning (LogReg, RF, KNN), cross-validation
+- SHAP-based model explainability for clinical interpretation
+- Clear markdown structure, visual summaries, and performance metrics
+
+📌 [View Project on GitHub](https://github.com/LynaBouikni/Heart-Disease-Prediction)
+
 
 ### 🧠 Deep RL for motor adaptation (Campus Biotech)
 Simulated human-like movement adaptation using MuJoCo + reinforcement learning.
