@@ -43,7 +43,10 @@ Pandas, NumPy, Matplotlib, Seaborn | Git, GitLab, Linux, Jupyter, GCP
 
 ## 📂 Featured Projects
 
-### 🫀 Heart Disease Risk Prediction  
+### 🫀 [Heart Disease Risk Prediction](https://github.com/LynaBouikni/Heart-Disease-Prediction)  
+> **Tools**: Scikit-Learn · SHAP · Pandas · Matplotlib  
+> **Tags**: Classification · Healthcare · Explainability · Portfolio
+
 End-to-end ML pipeline using the UCI Heart dataset with:
 - EDA, model tuning (LogReg, RF, KNN), cross-validation
 - SHAP-based model explainability for clinical interpretation
