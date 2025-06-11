@@ -82,7 +82,7 @@ Multi-level classification system with handcrafted statistical features & ML.
 
 📫 Email: [lynabouiknia@gmail.com](mailto:lynabouiknia@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/lyna-b-231a41126)  
-📁 [Portfolio (Coming soon!)]()
+📁 [Portfolio]()
 
 ---
 
