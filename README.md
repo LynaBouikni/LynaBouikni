@@ -54,6 +54,18 @@ End-to-end ML pipeline using the UCI Heart dataset with:
 
 📌 [View Project on GitHub](https://github.com/LynaBouikni/Heart-Disease-Prediction)
 
+### 🎬 [Movie Recommendation System with Sparse Data](https://github.com/LynaBouikni/Movie-Recommendation-System-with-Sparse-Data)  
+> **Tools**: NumPy · Scikit-Learn · Matrix Factorization · SVD · KNN  
+> **Tags**: Recommender System · Sparse Data · Ensemble Learning
+
+Tackled extreme data sparsity using:
+- Matrix Factorization + Gradient Descent  
+- k-NN with cosine similarity  
+- SVD for low-rank approximations  
+- A custom ensemble for robust final predictions  
+
+📌 [Explore the System on GitHub](https://github.com/LynaBouikni/Movie-Recommendation-System-with-Sparse-Data)
+
 
 ### 🧠 Deep RL for motor adaptation (Campus Biotech)
 Simulated human-like movement adaptation using MuJoCo + reinforcement learning.
