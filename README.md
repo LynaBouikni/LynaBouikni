@@ -54,6 +54,8 @@ End-to-end ML pipeline using the UCI Heart dataset with:
 
 📌 [View Project on GitHub](https://github.com/LynaBouikni/Heart-Disease-Prediction)
 
+------
+
 ### 🎬 [Movie Recommendation System with Sparse Data](https://github.com/LynaBouikni/Movie-Recommendation-System-with-Sparse-Data)  
 > **Tools**: NumPy · Scikit-Learn · Matrix Factorization · SVD · KNN  
 > **Tags**: Recommender System · Sparse Data · Ensemble Learning
