@@ -19,7 +19,6 @@ I'm a passionate **Data Scientist** with a strong focus on real-world applicatio
 
 🔭 Applying data science to **real-world problems** 
 📚 Building reproducible **ML pipelines** for real-world data
-'text analytics`, `reinforcement learning`, and **neuro-inspired models**
 📝 Contributing to open-source & scientific publications
 
 ---
