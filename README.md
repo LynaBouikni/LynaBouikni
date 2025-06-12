@@ -68,6 +68,8 @@ Tackled extreme data sparsity using:
 
 📌 [Explore the System on GitHub](https://github.com/LynaBouikni/Movie-Recommendation-System-with-Sparse-Data)
 
+------
+
 ## 🧪 [F-GAN with Discriminator Rejection Sampling](https://github.com/LynaBouikni/F-GAN-with-Discriminator-Rejection-Sampling)  
 > **Tools**: PyTorch · NumPy · F-divergences · GANs  
 > **Tags**: Generative Modeling · Rejection Sampling · Deep Learning
@@ -79,12 +81,17 @@ Explored advanced GANs through:
 
 📌 [View the Full Project](https://github.com/LynaBouikni/F-GAN-with-Discriminator-Rejection-Sampling)
 
+------
 
 ### 🧠 Deep RL for motor adaptation (Campus Biotech)
 Simulated human-like movement adaptation using MuJoCo + reinforcement learning.
 
+------
+
 ### 🧠 Speech decoding with EEG & fMRI (UAEU)
 Transformer-based model achieving 97% accuracy on unimodal EEG decoding. (Will be shared once published)
+
+------
 
 ### 🧮 IRM-based tumor classification
 Multi-level classification system with handcrafted statistical features & ML.
