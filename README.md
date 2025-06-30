@@ -83,6 +83,22 @@ Explored advanced GANs through:
 
 ------
 
+### 🛡️ [neural-networks-under-attack](https://github.com/LynaBouikni/neural-networks-under-attack)  
+_Training Robust Neural Networks against Adversarial Attacks_  
+> **Tools**: PyTorch · Adversarial ML · CIFAR-10  
+> **Tags**: CNN · Robustness · Adversarial Training · Explainability
+
+Investigated the robustness of CNNs to adversarial attacks:
+- Built baseline CNN models (LeNet-style and improved architectures)
+- Implemented FGSM, PGD, and DeepFool adversarial attack methods
+- Applied adversarial training and randomized network defenses
+- Analyzed performance degradation and recovery under adversarial stress
+- Packaged the experiments with clear Jupyter notebooks and scripts
+
+📌 [Explore the Project on GitHub](https://github.com/LynaBouikni/neural-networks-under-attack)
+
+------
+
 ### 🧠 Deep RL for motor adaptation (Campus Biotech)
 Simulated human-like movement adaptation using MuJoCo + reinforcement learning.
 
