@@ -98,6 +98,21 @@ Investigated the robustness of CNNs to adversarial attacks:
 📌 [Explore the Project on GitHub](https://github.com/LynaBouikni/neural-networks-under-attack)
 
 ------
+### 🏗️ [Bulldozer Price Prediction](https://github.com/LynaBouikni/Bulldozer-Price-Prediction)  
+_End-to-End Regression Pipeline with Feature Engineering & Random Forests_  
+> **Tools**: Scikit-Learn · Pandas · Random Forest · Tabular ML  
+> **Tags**: Regression · Price Prediction · Feature Importance · Time-aware Split
+
+Built a full machine learning pipeline to predict the auction price of bulldozers:
+- Cleaned and preprocessed 400,000+ auction records from the Blue Book dataset
+- Engineered time-based features (`saleYear`, `machineAge`) and encoded categoricals
+- Trained and validated Random Forest models using RMSLE
+- Ranked top contributing features like `YearMade`, `ProductSize`, `saleYear`
+- Included a fully documented Jupyter notebook with EDA, modeling, and evaluation
+
+📌 [View the Project on GitHub](https://github.com/LynaBouikni/Bulldozer-Price-Prediction)
+
+------
 
 ### 🧠 Deep RL for motor adaptation (Campus Biotech)
 Simulated human-like movement adaptation using MuJoCo + reinforcement learning.
