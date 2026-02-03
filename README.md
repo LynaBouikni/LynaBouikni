@@ -79,7 +79,7 @@ Explored advanced GANs through:
 - Implementing Discriminator Rejection Sampling for improved generation  
 - Evaluating models using FID, precision, and recall  
 
-📌 [View the Full Project]([https://github.com/LynaBouikni/F-GAN-with-Discriminator-Rejection-Sampling](https://github.com/LynaBouikni/fgan-discriminator-rejection-sampling))
+📌 [View the Full Project](https://github.com/LynaBouikni/fgan-discriminator-rejection-sampling)
 
 ------
 
